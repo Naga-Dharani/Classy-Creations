@@ -1,0 +1,371 @@
+
+[
+{
+"id":1,
+"title":"Set of Earthen Terracotta Snack Plates 7 Inch",
+"image":"images/dining1.webp",
+"price":"₹2,450",
+"dis":"₹3,690",
+"off":"(34% OFF)"
+
+
+},
+{
+"id":2,
+"title":"Set of 4 Terracotta Dinner Plates 9Inch",
+"image":"images/dining2.webp",
+"price":"₹3,950",
+"dis":"₹5,940",
+"off":"(34% OFF)"
+
+
+},  
+{
+"id":3,
+"title":"Earthen Clay Water Bottel 840ml",
+"image":"images/dining3.webp",
+"price":"₹800",
+"dis":"₹1,280",
+"off":"(37% OFF)"
+
+
+},
+{
+"id":4,
+"title":"Engraved Terracotta Dinner Plates Set Of 4 9 Inch",
+"image":"images/dining4.webp",
+"price":"₹3,890",
+"dis":"₹5,940",
+"off":"(34% OFF)"
+
+
+},
+
+
+
+
+    {
+    "id":5,
+    "title":"Set of Earthen Terracotta Snack Plates 7Inch",
+    "image":"images/dining5.webp",
+    "price":"₹2,450",
+    "dis":"₹3,690",
+    "off":"(34% OFF)"
+    
+
+        
+    },
+    {
+    "id":6,
+    "title":"Bangal Clay Terracotta Large Serving Bowls Set Of 2 700ml",
+    "image":"images/dining6.webp",
+    "price":"₹690 ",
+    "dis":"₹1,080",
+    "off":"(36% OFF)"
+
+            
+    },
+    {
+    "id":7,
+    "title":"Set of 4 Earthen Clay Terracotta Small Bowls 150ml",
+    "image":"images/dining7.webp",
+    "price":"₹450",
+    "dis":"₹720",
+    "off":"(38% OFF)"
+
+                
+    },
+    {
+    "id":8,
+    "title":"Glass Free Terracotta Clay Tumbler Set Of 4 300ml",
+    "image":"images/dining8.webp",
+    "price":"₹590",
+    "dis":"₹900",
+    "off":"(34% OFF)"
+
+                    
+    },
+    {
+    "id":9,
+    "title":"Earthen Clay Water Bottel 840ml",
+    "image":"images/dining9.webp",
+    "price":"₹790",
+    "dis":"₹12600",
+    "off":"(37% OFF)"
+
+                        
+    },
+    {
+    "id":10,
+    "title":"Round Wicker Table Mat Set Of 2, 12 Inch ",
+    "image":"images/dining10.webp",
+    "price":"₹890",
+    "dis":"₹1,350",
+    "off":"(34% OFF)"
+
+                            
+    },
+    {
+    "id":11,
+    "title":"Royal Vintage Brass Cake Knife And Server Set Of 2",
+    "image":"images/dining11.webp",
+    "price":"₹1,69",
+    "dis":"₹2,610",
+    "off":"(35% OFF)"
+
+                                
+    },
+    {
+    "id":12,
+    "title":"Pure Brass Filter Coffee Tumbler Davara Set For 2 People",
+    "image":"images/dining12.webp",
+    "price":"₹1,490",
+    "dis":"₹2,250",
+    "off":"(34% OFF)"
+
+                                    
+    },
+    {
+    "id":13,
+    "title":"Set Of Stars And Comet Ceramic Sereware With Tray",
+    "image":"images/dining13.webp",
+    "price":"₹1,590",
+    "dis":"₹2,430",
+    "off":"(35% OFF)"
+    
+
+        
+    },
+    {
+    "id":14,
+    "title":"Leaf Ceramic Bowls And Long Plate Set of 4 With Tray",
+    "image":"images/dining14.webp",
+    "price":"₹1,550",
+    "dis":"₹2,340",
+    "off":"(34% OFF)"
+
+        
+    },
+    {
+    "id":15,
+    "title":"3 Section Leafy Ceramic Plate With Wooden Tray",
+    "image":"images/dining15.webp",
+    "price":"₹990",
+    "dis":"₹1,530",
+    "off":"(35% OFF)"
+
+            
+    },
+    {
+    "id":16,
+    "title":"Maple Leaf Serving Bowl With Wooden Cultery And Tray..",
+    "image":"images/dining16.webp",
+    "price":"₹1,890",
+    "dis":"₹2,880",
+    "off":"(34% OFF)"
+    
+
+                
+    },
+    {
+    "id":17,
+    "title":"Set of 2 Inlay Wooden Serving Spoons Gold",
+    "image":"images/dining17.webp",
+    "price":"₹1,395",
+    "dis":"₹2,160",
+    "off":"(35% OFF)"
+
+                    
+    },
+    {
+    "id":18,
+    "title":"Stainless Steel Feather Serving Spoon Set Of 2",
+    "image":"images/dining18.webp",
+    "price":"₹1,650",
+    "dis":"₹2,520",
+    "off":"(35% OFF)"
+
+                        
+    },
+    {
+    "id":19,
+    "title":"Luxury Accent Serving Spoon Set Of 2",
+    "image":"images/dining19.webp",
+    "price":"₹1,350",
+    "dis":"₹2,070",
+    "off":"(35% OFF)"
+
+        
+    },
+    {
+    "id":20,
+    "title":"Leaf Design Cheese Knife Set OF 2",
+    "image":"images/dining20.webp",
+    "price":"₹695",
+    "dis":"₹1,080",
+    "off":"(36% OFF)"
+
+            
+    },
+    {
+    "id":21,
+    "title":"Sleek Black Mango Wood Platter Small",
+    "image":"images/dining21.webp",
+    "price":"₹750",
+    "dis":"₹1,170",
+    "off":"(36% OFF)"
+
+                
+    },
+    {
+    "id":22,
+    "title":"Small Octagon Wooden Serving Platter",
+    "image":"images/dining22.webp",
+    "price":"₹845",
+    "dis":"₹1,350",
+    "off":"(37% OFF)"
+
+                    
+    },
+    {
+    "id":23,
+    "title":"Octagon Wooden Snack Platter",
+    "image":"images/dining23.webp",
+    "price":"₹995",
+    "dis":"₹1,530",
+    "off":"(35% OFF)"
+
+                        
+    },
+    {
+    "id":24,
+    "title":"Flower Shaped Acacia Wood Serving Platter",
+    "image":"images/dining24.webp",
+    "price":"₹895",
+    "dis":"₹1,350",
+    "off":"(34% OFF)"
+
+                            
+    },
+    {
+    "id":25,
+    "title":"Zoella Green Snack Blowls Set Of 4 250ml",
+    "image":"images/dining25.webp",
+    "price":"₹1,760",
+    "dis":"₹2,640",
+    "off":"(33% OFF)"
+
+                                
+    },
+    {
+    "id":26,
+    "title":"Zoella Orange Dip Dishes Set Of 4 100ml",
+    "image":"images/dining26.webp",
+    "price":"₹600",
+    "dis":"₹900",
+    "off":"(35% OFF)"
+
+                                    
+    },
+    {
+    "id":27,
+    "title":"Orange Zoella Set Of 4 Dinner Plates 10 Inch",
+    "image":"images/dining27.webp",
+    "price":"₹4,780o",
+    "dis":"₹7,170",
+    "off":"(33% OFF)"
+
+                                        
+    },
+    
+    {
+        "id":28,
+        "title":"Zoella Green Ceramic Dinner Plates Set Of 4 10 Inch",
+        "image":"images/dining28.webp",
+        "price":"₹4,780",
+        "dis":"₹7,170",
+        "off":"(33% OFF)"
+    
+        
+        },
+ {
+     "id":29,
+    "title":"Set Of 4 Scallop Vanilla White Dinner Plates 11 Inch",
+    "image":"images/dining29.webp",
+    "price":"₹3,950",
+    "dis":"₹5,270",
+    "off":"(25% OFF)"
+    },
+
+    {
+        "id":30,
+       "title":"Nitori Cooking Pot",
+       "image":"images/dining30.webp",
+       "price":"₹1,250",
+       "dis":"₹1,500",
+       "off":"(17% OFF)"
+       },
+       {
+        "id":31,
+       "title":"Chic Maroccan Long Plate Set Of 2 Ivory 12 Inch",
+       "image":"images/dining31.webp",
+       "price":"₹2,570",
+       "dis":"₹3,855",
+       "off":"(33% OFF)"
+       },
+
+       {
+        "id":32,
+       "title":"Green Dino Meal Set",
+       "image":"images/dining32.webp",
+       "price":"₹2,170",
+       "dis":"₹2,550",
+       "off":"(15% OFF)"
+       },
+       {
+        "id":33,
+       "title":"Pink Marble 26 Piece Dinnerware For 6",
+       "image":"images/dining33.webp",
+       "price":"₹20,260",
+       "dis":"₹21,260",
+       "off":"(5% OFF)"
+       },
+
+       {
+        "id":34,
+       "title":"Pink Azo Dinner Plate Set Of 4 10 Inch",
+       "image":"images/dining34.webp",
+       "price":"₹5,960",
+       "dis":"₹8,940",
+       "off":"(33% OFF)"
+       },
+
+       {
+        "id":35,
+       "title":"Teal Tantrum Flower 3-tire Snack Stand",
+       "image":"images/dining35.webp",
+       "price":"₹3,192",
+       "dis":"₹3,990",
+       "off":"(20% OFF)"
+       },
+
+       {
+        "id":36,
+       "title":"Exotic Serving Bowl Set Of 2 1200ml",
+       "image":"images/dining36.webp",
+       "price":"₹2.024",
+       "dis":"₹3,036",
+       "off":"(33% OFF)"
+       }
+                                        
+    
+    
+    
+    
+    ]
+    
+    
+
+
+
+
